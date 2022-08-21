@@ -1,0 +1,35 @@
+{
+    "message": "Successfuly added new asset",
+    "success": true,
+    "messages": ""
+}
+
+------------------------------------------------------
+{
+    "message": "The given data was invalid.",
+    "errors": {
+        "asset_code": [
+            "The Asset code field is required."
+        ]
+    }
+}
+
+
+child: isLoading
+              ? const CircularProgressIndicator(
+                  color: Colors.white,
+                )
+              : const Text(
+                  'Login',
+                  style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold,color: Colors.white),
+                ),
+
+
+SizedBox
+
+                     
+flutter build apk --release -t lib/main.dart
+implementation 'com.facebook.stetho:stetho:1.6.0'
+edge://inspect/#devices
+mvvm architecture
+https://jsoneditoronline.org/#left=local.cisuwe&right=local.yoweha
